@@ -10,9 +10,9 @@
   },
   "dependencies": {
     "ws": "^8.21.0",
-    "axios": "^1.16.0"
+    "axios": "^1.19.0"
   },
   "engines": {
-    "node": ">=20"
+    "node": ">=22"
   }
 }
